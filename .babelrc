@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    [
+      "effector/babel-plugin",
+      {
+        "factories": ["src/features/counter"],
+        "addLoc": true
+      }
+    ]
+  ]
+}
